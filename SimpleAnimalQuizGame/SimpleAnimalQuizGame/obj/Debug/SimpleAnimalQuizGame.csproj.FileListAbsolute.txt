@@ -1,0 +1,11 @@
+C:\Users\Khyrstie\Desktop\Projects\SimpleAnimalQuizGame\SimpleAnimalQuizGame\bin\Debug\SimpleAnimalQuizGame.exe.config
+C:\Users\Khyrstie\Desktop\Projects\SimpleAnimalQuizGame\SimpleAnimalQuizGame\bin\Debug\SimpleAnimalQuizGame.exe
+C:\Users\Khyrstie\Desktop\Projects\SimpleAnimalQuizGame\SimpleAnimalQuizGame\bin\Debug\SimpleAnimalQuizGame.pdb
+C:\Users\Khyrstie\Desktop\Projects\SimpleAnimalQuizGame\SimpleAnimalQuizGame\obj\Debug\SimpleAnimalQuizGame.csproj.AssemblyReference.cache
+C:\Users\Khyrstie\Desktop\Projects\SimpleAnimalQuizGame\SimpleAnimalQuizGame\obj\Debug\SimpleAnimalQuizGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Khyrstie\Desktop\Projects\SimpleAnimalQuizGame\SimpleAnimalQuizGame\obj\Debug\SimpleAnimalQuizGame.Form1.resources
+C:\Users\Khyrstie\Desktop\Projects\SimpleAnimalQuizGame\SimpleAnimalQuizGame\obj\Debug\SimpleAnimalQuizGame.Properties.Resources.resources
+C:\Users\Khyrstie\Desktop\Projects\SimpleAnimalQuizGame\SimpleAnimalQuizGame\obj\Debug\SimpleAnimalQuizGame.csproj.GenerateResource.cache
+C:\Users\Khyrstie\Desktop\Projects\SimpleAnimalQuizGame\SimpleAnimalQuizGame\obj\Debug\SimpleAnimalQuizGame.csproj.CoreCompileInputs.cache
+C:\Users\Khyrstie\Desktop\Projects\SimpleAnimalQuizGame\SimpleAnimalQuizGame\obj\Debug\SimpleAnimalQuizGame.exe
+C:\Users\Khyrstie\Desktop\Projects\SimpleAnimalQuizGame\SimpleAnimalQuizGame\obj\Debug\SimpleAnimalQuizGame.pdb
