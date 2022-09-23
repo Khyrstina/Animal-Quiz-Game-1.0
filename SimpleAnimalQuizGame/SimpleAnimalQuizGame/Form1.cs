@@ -77,7 +77,7 @@ namespace SimpleAnimalQuizGame
                 case 1:
                     pictureBox1.Image = Properties.Resources.quiz_game_title;
 
-                    lblQuestion.Text = "Every dog has it's day... when is that?";
+                    lblQuestion.Text = "Every dog has its day... when is that?";
 
                     button1.Text = "Sunday";
                     button2.Text = "Tuesday";
